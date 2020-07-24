@@ -384,6 +384,7 @@ extern AVCodec ff_zlib_encoder;
 extern AVCodec ff_zlib_decoder;
 extern AVCodec ff_zmbv_encoder;
 extern AVCodec ff_zmbv_decoder;
+extern AVCodec ff_cedrus264_encoder;
 
 /* audio codecs */
 extern AVCodec ff_aac_encoder;
